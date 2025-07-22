@@ -39,8 +39,6 @@ Are you stuck? Don't understand how to do a certain part? This video should help
 
 This video is intended to be followed *along with the guide* and may become out of date.
 
-{% embed youtube id="EUGl_zNS6Uk?t=3" loading="lazy" %}
-
 ## 1. Cloning
 
 ```admonish danger title="Do not download as a zip from GitHub"
