@@ -233,6 +233,8 @@ You can click on *Player Info* to the far right of the player's name to view the
 
 ![ss14adminplayerinfo2.png](../../assets/images/admin/ss14adminplayerinfo2.png)
 
+![ss14adminplayerinfo3.png](../../assets/images/admin/ss14adminplayerinfo3.png)
+
 The *Connections* tab shows you the most recent connections to the servers as well as information for each connection.
 ![ss14adminconnections.png](../../assets/images/admin/ss14adminconnections.png)
 
