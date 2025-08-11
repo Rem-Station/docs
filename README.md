@@ -1,6 +1,6 @@
 # Rem Station Development Wiki
 
-This is the `mdbook`-based developer documentation for all Rem Station projects. The Rem Station docs site does not cover as many topics as the Wizard Den's docs website does. If you are looking for a certain topic, it may be covered on [their site](https://spacestation14.com)
+This is the `mdbook`-based developer documentation for all Rem Station projects. The Rem Station docs site does not cover as many topics as the Wizard Den's docs website does. If you are looking for a certain topic, it may be covered on [their site](https://docs.spacestation14.com)
 
 The site is currently hosted at https://docs.remstations.com
 
