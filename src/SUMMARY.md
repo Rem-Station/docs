@@ -305,18 +305,11 @@ Community
 
 ----------------------
 
-- [Infrastructure References](en/community/infrastructure-references.md)
-  - [Wizards Den Infrastructure](en/community/infrastructure-reference/wizards-den-infrastructure.md)
-  - [Grafana Dashboards](en/community/infrastructure-reference/grafana-dashboards.md)
-- [Space Wizards Hub Rules](en/community/space-wizards-hub-rules.md)
-- [Discord Rich Presence Repository](en/community/discord-rich-presence-repository.md)
 - [Admin](en/community/admin.md)
   - [Admin Tooling](en/community/admin/admin-tooling.md)
     - [Admin Command Cookbook](en/community/admin/admin-tooling/admin-command-cookbook.md)
-  - [Wizards Den Admin Policy](en/community/admin/wizards-den-admin-policy.md)
-  - [Wizards Den Banning Policy](en/community/admin/wizards-den-banning-policy.md)
-  - [Wizards Den MRP Policy](en/community/admin/wizards-den-mrp-policy.md)
-- [Progress Report Creation](en/community/progress-report-creation.md)
+  - [Rem Station Admin Policy and Conduct](en/community/admin/rem-station-apac.md)
+  - [Rem Station Banning Policy](en/community/admin/rem-station-banning-policy.md)
 
 Engine Development
 ========================
